@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hugo 🪐</h1>  
 <h3 align="center">A passionate frontend developer, learning and growing my skillset in web development</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugolomba&label=Profile%20views&color=0e75b6&style=flat" alt="hugolomba" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugolomba" alt="hugolomba" /></a> </p>  
   
 - 👨🏻‍💻 I’m currently working with **ReactJs, JavaScript, HTML, CSS**  
 - 🎓 I`m studying Web Development at [Ironhack](https://www.ironhack.com/en/web-development)

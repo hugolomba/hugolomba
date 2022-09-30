@@ -5,13 +5,12 @@
   
   
 - 👨🏻‍💻 I’m currently working with **ReactJs, JavaScript, HTML, CSS**  
+
 - 🎓 I`m studying Web Development at [Ironhack](https://www.ironhack.com/en/web-development)
   
-- 🌱 I’m currently learning **React Native, Typescript**  
+- 🌱 I’m learning **React Native, Typescript**  
   
 - 🏦 I’m currently working at [Itaú Unibanco](www.itau.com.br)  
-  
-- 💬 Ask me about **anything, I am happy to talk and help**  
 
 - 📫 How to reach me **hugolomba@icloud.com**  
 

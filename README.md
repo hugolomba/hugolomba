@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi, I'm Hugo 🪐</h1>  
-<h3 align="center">A passionate frontend developer, learning and growing my skillset in web development</h3>  
+<h3 align="center">A passionate frontend developer, learning and growing my skillset in web development</h3>     
+
   
-  
+<p align="center">  
   
 - 👨🏻‍💻 I’m currently working with **ReactJs, JavaScript, HTML, CSS**  
 
@@ -17,7 +18,7 @@
 - 🌐 Visit my porfolio website [hugomiranda.me](hugomiranda.me)  
 
 - 📄 Know about my experiences [My Resume](https://hugomiranda.me/static/media/resume.5b0858c16ea9aa652b3c.pdf)  
-  
+  </p>
 
   
 <h3 align="center">Languages and Tools:</h3>  

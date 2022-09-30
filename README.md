@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 const hugo = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
@@ -26,5 +27,7 @@ const hugo = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+
+-->
 
 My portfolio website: hugomiranda.me

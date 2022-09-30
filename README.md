@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hugolomba@icloud.com**  
 
-- 🌐 Visit my porfolio website [hugomiranda.me](hugomiranda.me)  
+- 🌐 Visit my porfolio website [hugomiranda.me](https://www.hugomiranda.me)  
 
 - 📄 Know about my experiences [My Resume](https://hugomiranda.me/static/media/resume.5b0858c16ea9aa652b3c.pdf)  
   </p>

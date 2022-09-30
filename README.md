@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hugo 🪐</h1>  
+<h1 align="center">Hi, I'm Hugo 🪐</h1>  
 <h3 align="center">A passionate frontend developer, learning and growing my skillset in web development</h3>  
   
   
@@ -41,4 +41,8 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugolomba&show_icons=true&locale=en&layout=compact" alt="hugolomba" /></p>  
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolomba&show_icons=true&locale=en" alt="hugolomba" /></p>
+                                                                                                                                          
+                                                                                                                                          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugolomba&show_icons=true&locale=en&layout=compact" alt="hugolomba" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolomba&show_icons=true&locale=en" alt="hugolomba" /></p>

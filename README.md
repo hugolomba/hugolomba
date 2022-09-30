@@ -39,7 +39,7 @@
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hugolomba /> </a> 
 </p>
                                                                                                                               
-[Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?myquote=once you kill a cow, you gotta make a burger)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
                                                                                                                               
                                                                                                                               

@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const hugo = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [ReactJs, NodeJs, ExpressJs, mongodb, Adobe Photoshop],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
+My portfolio website: hugomiranda.me

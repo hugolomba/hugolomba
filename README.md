@@ -36,7 +36,8 @@
 <h3 align="left">❤️ Connect with me:</h3>  
 <p align="left">  
 
-<a href="https://linkedin.com/in/hugolomba" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hugolomba /> </a> 
+<a href="https://linkedin.com/in/hugolomba" target="blank"> 
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hugolomba /> </a> 
 </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugolomba&show_icons=true&locale=en&layout=compact" alt="hugolomba" /></p>  

@@ -5,11 +5,9 @@
   
 <p align="center">  
   
-- 👨🏻‍💻 I’m currently working with **ReactJs, JavaScript, HTML, CSS**  
+- 👨🏻‍💻 I’m currently working with **ReactJs, JavaScript, TypeScript, Angular, HTML, CSS**  
 
-- 🎓 I`m studying Web Development at [Ironhack](https://www.ironhack.com/en/web-development)
-  
-- 🌱 I’m learning **React Native, Typescript**  
+- 🎓 I`m studying Web Development at [Ironhack](https://www.ironhack.com/en/web-development) 
   
 - 🏦 I’m currently working at [Itaú Unibanco](www.itau.com.br)  
 

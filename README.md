@@ -6,16 +6,7 @@
 <p align="center">  
   
 - 👨🏻‍💻 I’m currently working with **ReactJs, JavaScript, TypeScript, Angular, HTML, CSS**  
-
-- 🎓 I`m studying Web Development at [Ironhack](https://www.ironhack.com/en/web-development) 
   
-- 🏦 I’m currently working at [Itaú Unibanco](www.itau.com.br)  
-
-- 📫 How to reach me **hugolomba@icloud.com**  
-
-- 🌐 Visit my porfolio website [hugomiranda.me](https://www.hugomiranda.me)  
-
-- 📄 Know about my experiences [My Resume](https://hugomiranda.me/static/media/resume.5b0858c16ea9aa652b3c.pdf)  
   </p>
 
   
